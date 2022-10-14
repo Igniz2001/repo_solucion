@@ -231,7 +231,7 @@ def colorear(palabra_verificada : array):
 
 print("Bienvenid@ Jugador")
 q = str(input("Deseas comenzar una nueva partida? y/n: "))
-palabras = ["busto", "gorra", "chulo", "costa", "ostra"]
+palabras = ["busto", "gorra", "chulo", "costa", "ostra","poste","carro","avion","peste"]
 if q == "n" or q == "N":
   print("Si abueno")
 elif q == "y" or q == "Y":
