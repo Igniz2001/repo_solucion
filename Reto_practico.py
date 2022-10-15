@@ -225,6 +225,7 @@ elif q == "y" or q == "Y":
       print(text,end="")
       z += 1
     print(" ")
+    print("La palabra que debias adivinar era: ",palabra_elegida)
     print("HAZ PERDIDO")
 else:
   print("por favor ingrese un valor valido no sea imbecil")
